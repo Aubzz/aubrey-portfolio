@@ -169,7 +169,7 @@ export default function Home() {
 			<span className="green">aubrey@portfolio</span>
 			<span className="muted">:</span>
 			<span className="blue">~</span>
-			<span className="muted">$</span> whoami
+			<span className="muted">$</span> who am i
 		</p>
 
 		<p className="hello">HELLO, I&apos;M</p>
